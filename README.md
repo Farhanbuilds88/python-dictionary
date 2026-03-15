@@ -21,14 +21,6 @@ The code in this repository demonstrates the following **dictionary operations a
 - **Checking for keys**: using `in` to verify the presence of a key  
 - **User interaction**: taking input from the user and performing dictionary lookups  
 
-
-## Highlights
-
-- All fundamental dictionary operations have been covered in practical examples  
-- Exercises demonstrate **updating, deleting, filtering, and calculating with dictionaries**  
-- Includes examples of **user input and search within dictionaries**  
-- Provides a comprehensive learning experience for Python dictionary mastery
-
 ## Highlights
 
 - Comprehensive coverage of **all fundamental dictionary operations**  
