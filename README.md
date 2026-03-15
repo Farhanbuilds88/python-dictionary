@@ -28,3 +28,10 @@ The code in this repository demonstrates the following **dictionary operations a
 - Exercises demonstrate **updating, deleting, filtering, and calculating with dictionaries**  
 - Includes examples of **user input and search within dictionaries**  
 - Provides a comprehensive learning experience for Python dictionary mastery
+
+## Highlights
+
+- Comprehensive coverage of **all fundamental dictionary operations**  
+- Demonstrates **updating, deleting, filtering, and calculations with dictionaries**  
+- Includes examples of **user input and search within dictionaries**  
+- Provides a structured practice approach to **master Python dictionaries**
